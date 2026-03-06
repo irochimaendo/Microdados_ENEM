@@ -11,6 +11,7 @@ https://app.powerbi.com/view?r=eyJrIjoiOTk4OGVjZjctYTJhOC00MWJmLWE0YTctODgzZGViM
 * **Tecnologias:** Uso de DAX avançado para cálculo de medidas dinâmicas e Mapas de Forma (Shape Maps) personalizados.
 
 ## 🛠️ Desafios Técnicos Superados
+- Filtragem e Tratamento de Dados usando a Biblioteca Pandas do Python.
 - Padronização de nomes de estados via **Power Query (M)** para compatibilidade com Mapas de Forma.
 - Criação de medidas dinâmicas em **DAX** para comparação de extremos de renda e médias nacionais.
 
